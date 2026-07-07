@@ -14,3 +14,8 @@
 
 ## Materia
 **Programación Web**
+
+## Descripción
+
+Esta librería implementa un carrusel de imágenes en JavaScript utilizando una clase llamada Carrusel, la cual permite mostrar y administrar una colección de imágenes de forma sencilla. Su funcionamiento consiste en recibir el identificador de un elemento <img> y un arreglo con las rutas de las imágenes, mostrando inicialmente la primera de ellas. Además, proporciona métodos para avanzar a la siguiente imagen, regresar a la anterior y agregar nuevas imágenes al carrusel dinámicamente, actualizando automáticamente la imagen visible. Gracias a su diseño orientado a objetos, es una solución reutilizable y fácil de integrar en cualquier página web desarrollada con HTML, CSS y JavaScript.
+
